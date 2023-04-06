@@ -34,3 +34,7 @@ git clone https://github.com/whazami/snaike.git
 The console will print 2 information:
 * The current generation of the best net you are watching, you can go to the next one by pressing *space*.
 * The maximum generation that can be watched.
+
+## License
+
+This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for details.
